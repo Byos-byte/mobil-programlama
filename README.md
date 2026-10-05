@@ -18,7 +18,6 @@ Bu depo, VS Code üzerinde geliştirdiğim mobil programlama ders alıştırmala
   npm install
   npx expo start
   ```
-  Not: 1. çalışma tamamen AI ile geliştirilmiştir.
 
 ### 2. 📚 2. Hafta Kodları (`2. hafta`)
 - **`mobil_1.js`**: JavaScript değişkenleri, operatörler ve temel mantık yapıları.
