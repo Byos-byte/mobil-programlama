@@ -1,0 +1,13 @@
+# Bağımlılıklar
+node_modules/
+*/node_modules/
+
+# Expo ve Geçici Dosyalar
+.expo/
+*/.expo/
+.expo-shared/
+*.log
+
+# Sistem Dosyaları
+.DS_Store
+Thumbs.db
